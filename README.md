@@ -58,6 +58,7 @@ O projeto foi desenvolvido por uma equipe multidisciplinar utilizando metodologi
 ---
 
 ## 🏗️ Arquitetura do Projeto
+```
 cookit/
 ├── backend/
 │ ├── models/ # Modelos e integração com banco de dados
@@ -70,7 +71,7 @@ cookit/
 ├── pages/ # Páginas HTML
 ├── scripts/ # Código JavaScript
 └── styles/ # Folhas de estilo CSS
-
+```
 ---
 
 ## ⚙️ Metodologia
