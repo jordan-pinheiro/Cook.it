@@ -53,7 +53,7 @@ O projeto foi desenvolvido por uma equipe multidisciplinar utilizando metodologi
 | IDE | Visual Studio Code |
 | Banco de Dados | MySQL ou PostgreSQL |
 | Versionamento | Git + GitHub |
-| Linguagens | HTML, CSS, JavaScript, Node.js |
+| Linguagens | .... |
 
 ---
 
@@ -69,8 +69,8 @@ cookit/
 └── frontend/
 ├── assets/ # Imagens e ícones
 ├── pages/ # Páginas HTML
-├── scripts/ # Código JavaScript
-└── styles/ # Folhas de estilo CSS
+├── scripts/ # Código ...
+└── styles/ # Folhas de estilo ...
 ```
 ---
 
